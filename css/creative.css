@@ -43,10 +43,11 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #3BB03B;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: #3BB03B
+  ;
   color: white;
 }
 .text-faded {
@@ -70,7 +71,7 @@ aside {
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #25F3F0;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -155,7 +156,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('https://s-media-cache-ak0.pinimg.com/originals/09/1a/7c/091a7c5be8d6cd988764499594b721d3.jpg');
   text-align: center;
   color: white;
 }
